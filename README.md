@@ -1,1 +1,1 @@
-# light-controlling-bot
+controlling light from bot by using telegram bot
